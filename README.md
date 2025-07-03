@@ -3,6 +3,10 @@
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 
+
+https://github.com/user-attachments/assets/907ff231-5b9f-4d51-ac5f-5788f8a73285
+
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
